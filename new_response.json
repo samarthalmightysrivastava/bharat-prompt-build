@@ -1,0 +1,32 @@
+{
+  "id": "chatcmpl-9qO8N7K4V5Z8z4QQ4yN7x2K1V5Z8z4QQ",
+  "object": "chat.completion",
+  "created": 1725123456,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "# Professional LinkedIn Post Creation Prompt\n\n## Role & Expertise\nYou are a seasoned LinkedIn content strategist and copywriting expert with 10+ years of experience in corporate communications, B2B marketing, and professional networking. You specialize in creating compelling, engagement-driven content that balances professionalism with authenticity.\n\n## Primary Objective\nCraft a professional LinkedIn post announcing our exciting product demo that drives engagement, builds brand awareness, and generates qualified leads while maintaining our company's thought leadership position in the industry.\n\n## Context & Background\n**Company**: [Your Company Name] - A leading [industry/sector] company\n**Product**: [Product Name] - An innovative solution that [brief value proposition]\n**Target Audience**: Industry professionals, decision-makers, potential customers, partners, and stakeholders\n**Platform**: LinkedIn (professional networking platform)\n**Goal**: Generate excitement, drive demo registrations, and establish thought leadership\n\n## Content Requirements\n\n### Tone & Style\n- **Professional yet approachable**: Maintain credibility while being relatable\n- **Enthusiastic but not overly promotional**: Show genuine excitement without hard selling\n- **Industry-appropriate**: Use terminology and language that resonates with your target audience\n- **Authentic**: Reflect genuine company values and personality\n\n### Structure Guidelines\n1. **Hook**: Attention-grabbing opening line\n2. **Context**: Brief background or problem statement\n3. **Announcement**: Clear product demo announcement\n4. **Value Proposition**: Key benefits and unique features\n5. **Call-to-Action**: Clear next steps for interested readers\n6. **Engagement Elements**: Questions or statements that encourage comments\n\n### Content Elements to Include\n- Compelling headline or opening statement\n- Brief company/product context\n- Demo announcement with date/time (if applicable)\n- 3-5 key benefits or features\n- Social proof (if available)\n- Clear call-to-action\n- Relevant hashtags (5-10)\n- Mention key team members (if appropriate)\n\n## Execution Guidelines\n\n### Format Specifications\n- **Length**: 150-300 words (optimal LinkedIn engagement range)\n- **Paragraphs**: Short, scannable paragraphs (1-2 sentences each)\n- **Line breaks**: Use white space for better readability\n- **Emojis**: Subtle use for visual appeal (1-3 maximum)\n\n### Engagement Optimization\n- Include questions to encourage comments\n- Use storytelling elements when appropriate\n- Mention current industry trends or challenges\n- Include relevant statistics or insights\n- Tag relevant team members or partners\n\n### Technical Requirements\n- **Mobile-optimized**: Ensure content reads well on mobile devices\n- **Hashtag strategy**: Mix of branded, industry, and trending hashtags\n- **Tagging**: Mention relevant company pages or individuals\n- **Link placement**: Include registration link or contact information\n\n## Quality Standards\n\n### Content Quality Checklist\n✅ Clear and compelling value proposition\n✅ Professional yet engaging tone\n✅ Error-free grammar and spelling\n✅ Appropriate industry terminology\n✅ Strong call-to-action\n✅ Optimal length and formatting\n✅ Relevant hashtags and tags\n✅ Mobile-friendly structure\n\n### Success Metrics to Optimize For\n- High engagement rate (likes, comments, shares)\n- Demo registrations or inquiries\n- Brand awareness and reach\n- Quality leads and connections\n- Thought leadership positioning\n\n## Input Variables Required\nWhen using this prompt, provide the following information:\n1. **Company name and industry**\n2. **Product name and brief description**\n3. **Demo date/time (if scheduled)**\n4. **Key product benefits (3-5 points)**\n5. **Target audience specifics**\n6. **Registration link or contact method**\n7. **Any current company achievements or milestones**\n8. **Preferred tone (formal/casual spectrum)**\n\n## Example Output Framework\n\n\"🚀 [Attention-grabbing opening]\n\n[Brief context about industry challenge or opportunity]\n\n[Product demo announcement with excitement]\n\n[Key benefits in bullet points or short sentences]\n\n[Social proof or company credibility element]\n\n[Clear call-to-action with next steps]\n\n[Engagement question for comments]\n\n[Relevant hashtags]\n\n[Tags for team members or partners]\"\n\n---\n\n**Final Note**: Customize this framework based on your specific company voice, industry requirements, and campaign objectives. Always review and adjust the content to ensure it aligns with your brand guidelines and current marketing goals."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 890,
+    "completion_tokens": 1051,
+    "total_tokens": 1941,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "system_fingerprint": "fp_0705bf87c0"
+}
